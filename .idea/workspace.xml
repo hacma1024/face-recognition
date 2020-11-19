@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf3a6b5d-1818-4f3a-9381-13334489427d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AUTHORS.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile.gpu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HISTORY.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_Japanese.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_Korean.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_Simplified_Chinese.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/authors.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contributing.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/face_recognition.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/history.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/installation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/readme.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/usage.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/alex-lacamoire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/benchmark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/biden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/blink_detection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/blur_faces_on_webcam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/digital_makeup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/face_distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/face_recognition_knn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/face_recognition_svm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_from_video_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_from_webcam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_from_webcam_faster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_from_webcam_multiprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_ipcamera_knn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_on_raspberry_pi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/facerec_on_raspberry_pi_Simplified_Chinese.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/find_faces_in_batches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/find_faces_in_picture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/find_faces_in_picture_cnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/find_facial_features_in_picture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hamilton_clip.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/identify_and_draw_boxes_on_faces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ipynb_examples/track_faces_on_video_realtime.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/test/alex_lacamoire1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/test/johnsnow_test1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/test/kit_with_rose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/test/obama1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/test/obama_and_biden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/alex_lacamoire/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/biden/biden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/biden/biden2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/kit_harington/john1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/kit_harington/john2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/obama/obama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/obama/obama2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/rose_leslie/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/knn_examples/train/rose_leslie/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lin-manuel-miranda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama-1080p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama-240p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama-480p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama-720p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/obama_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/recognize_faces_in_pictures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/short_hamilton_clip.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/two_people.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/web_service_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/web_service_example_Simplified_Chinese.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition/face_detection_cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition/face_recognition_cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_docs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/32bit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/biden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/obama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/obama2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/obama3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/obama_partial_face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_images/obama_partial_face2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tox.ini" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kUy3gDsSKCh1j578VM5uzYKhg0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/face_recognition_knn.py" />
+  </component>
+  <component name="RunManager" selected="Python.knn">
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_recognition_knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webcam" type="PythonConfigurationType" factoryName="Python">
+      <module name="face_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/facerec_from_webcam_faster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.webcam" />
+      <item itemvalue="Python.knn" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf3a6b5d-1818-4f3a-9381-13334489427d" name="Default Changelist" comment="" />
+      <created>1605769267039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605769267039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="114" width="1084" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605775107019">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="294" y="114" width="1084" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1605775107019" />
+    <state x="616" y="233" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605775105394">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="233" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1605775105394" />
+    <state width="1510" height="219" key="GridCell.Tab.0.bottom" timestamp="1605772248303">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1605772248303" />
+    <state width="1510" height="219" key="GridCell.Tab.0.center" timestamp="1605772248302">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.center/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1605772248302" />
+    <state width="1510" height="219" key="GridCell.Tab.0.left" timestamp="1605772248302">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.left/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1605772248302" />
+    <state width="1510" height="219" key="GridCell.Tab.0.right" timestamp="1605772248302">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.right/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1605772248302" />
+  </component>
+</project>
